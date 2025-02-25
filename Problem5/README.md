@@ -26,7 +26,7 @@ Trước khi chạy ứng dụng, hãy đảm bảo bạn đã cài đặt:
 
 ### 1️⃣ Clone Repository
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/TatMinhNguyen/NguyenTatMinh.git
 cd Problem5
 ```
 
