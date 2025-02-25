@@ -10,7 +10,7 @@ Trước khi chạy ứng dụng, hãy đảm bảo bạn đã cài đặt:
 ## 📂 Project Structure
 
 ```
-📦 project-root
+📦 Problem5
  ┣ 📂 src
  ┃ ┣ 📂 controllers
  ┃ ┣ 📂 models
